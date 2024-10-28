@@ -130,7 +130,7 @@ export default function ContactUsForm() {
               <div className="text-center space-y-4">
                 <CheckCircle2 className="w-16 h-16 text-green-500 mx-auto" />
                 <h3 className="text-2xl font-semibold text-green-800">Thank You!</h3>
-                <p className="text-gray-600">We've received your message and will be in touch shortly.</p>
+                <p className="text-gray-600">We&apos;ve received your message and will be in touch shortly.</p>
               </div>
             )}
           </CardContent>

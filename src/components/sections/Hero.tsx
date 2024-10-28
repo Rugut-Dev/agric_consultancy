@@ -107,7 +107,7 @@ export default function Hero() {
 
             {/* Conditional Success Message */}
             {emailSubmitted && (
-              <p className="text-green-200 mt-4">Thank you! You've been added to the waitlist.</p>
+              <p className="text-green-200 mt-4">Thank you! You&apos;ve been added to the waitlist.</p>
             )}
 
             {/* Secondary CTA Button */}
